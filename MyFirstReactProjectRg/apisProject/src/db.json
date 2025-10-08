@@ -1,0 +1,276 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "enes01",
+      "email": "enes01@example.com",
+      "age": 24,
+      "isActive": true,
+      "role": "user"
+    },
+    {
+      "id": "2",
+      "username": "enes02",
+      "email": "enes02@example.com",
+      "age": 30,
+      "isActive": false,
+      "role": "admin"
+    },
+    {
+      "id": "3",
+      "username": "enes03",
+      "email": "enes03@example.com",
+      "age": 27,
+      "isActive": true,
+      "role": "user"
+    },
+    {
+      "id": "4",
+      "username": "enes04",
+      "email": "enes04@example.com",
+      "age": 22,
+      "isActive": false,
+      "role": "editor"
+    },
+    {
+      "id": "5",
+      "username": "enes05",
+      "email": "enes05@example.com",
+      "age": 29,
+      "isActive": true,
+      "role": "user"
+    },
+    {
+      "id": "6",
+      "username": "enes06",
+      "email": "enes06@example.com",
+      "age": 21,
+      "isActive": true,
+      "role": "user"
+    },
+    {
+      "id": "7",
+      "username": "enes07",
+      "email": "enes07@example.com",
+      "age": 33,
+      "isActive": false,
+      "role": "admin"
+    },
+    {
+      "id": "8",
+      "username": "enes08",
+      "email": "enes08@example.com",
+      "age": 25,
+      "isActive": true,
+      "role": "user"
+    },
+    {
+      "id": "9",
+      "username": "enes09",
+      "email": "enes09@example.com",
+      "age": 35,
+      "isActive": true,
+      "role": "editor"
+    },
+    {
+      "id": "10",
+      "username": "enes10",
+      "email": "enes10@example.com",
+      "age": 28,
+      "isActive": false,
+      "role": "user"
+    },
+    {
+      "id": "11",
+      "username": "enes11",
+      "email": "enes11@example.com",
+      "age": 19,
+      "isActive": true,
+      "role": "user"
+    },
+    {
+      "id": "12",
+      "username": "enes12",
+      "email": "enes12@example.com",
+      "age": 26,
+      "isActive": false,
+      "role": "editor"
+    },
+    {
+      "id": "13",
+      "username": "enes13",
+      "email": "enes13@example.com",
+      "age": 31,
+      "isActive": true,
+      "role": "user"
+    },
+    {
+      "id": "14",
+      "username": "enes14",
+      "email": "enes14@example.com",
+      "age": 22,
+      "isActive": false,
+      "role": "user"
+    },
+    {
+      "id": "15",
+      "username": "enes15",
+      "email": "enes15@example.com",
+      "age": 34,
+      "isActive": true,
+      "role": "admin"
+    },
+    {
+      "id": "16",
+      "username": "enes16",
+      "email": "enes16@example.com",
+      "age": 20,
+      "isActive": true,
+      "role": "editor"
+    },
+    {
+      "id": "17",
+      "username": "enes17",
+      "email": "enes17@example.com",
+      "age": 23,
+      "isActive": false,
+      "role": "user"
+    },
+    {
+      "id": "18",
+      "username": "enes18",
+      "email": "enes18@example.com",
+      "age": 27,
+      "isActive": true,
+      "role": "user"
+    },
+    {
+      "id": "19",
+      "username": "enes19",
+      "email": "enes19@example.com",
+      "age": 32,
+      "isActive": true,
+      "role": "editor"
+    },
+    {
+      "id": "20",
+      "username": "enes20",
+      "email": "enes20@example.com",
+      "age": 24,
+      "isActive": false,
+      "role": "user"
+    },
+    {
+      "id": "21",
+      "username": "enes21",
+      "email": "enes21@example.com",
+      "age": 26,
+      "isActive": true,
+      "role": "user"
+    },
+    {
+      "id": "22",
+      "username": "enes22",
+      "email": "enes22@example.com",
+      "age": 28,
+      "isActive": false,
+      "role": "editor"
+    },
+    {
+      "id": "23",
+      "username": "enes23",
+      "email": "enes23@example.com",
+      "age": 29,
+      "isActive": true,
+      "role": "admin"
+    },
+    {
+      "id": "24",
+      "username": "enes24",
+      "email": "enes24@example.com",
+      "age": 18,
+      "isActive": true,
+      "role": "user"
+    },
+    {
+      "id": "25",
+      "username": "enes25",
+      "email": "enes25@example.com",
+      "age": 21,
+      "isActive": false,
+      "role": "user"
+    },
+    {
+      "id": "26",
+      "username": "enes26",
+      "email": "enes26@example.com",
+      "age": 30,
+      "isActive": true,
+      "role": "editor"
+    },
+    {
+      "id": "27",
+      "username": "enes27",
+      "email": "enes27@example.com",
+      "age": 23,
+      "isActive": true,
+      "role": "user"
+    },
+    {
+      "id": "29",
+      "username": "enes29",
+      "email": "enes29@example.com",
+      "age": 35,
+      "isActive": true,
+      "role": "admin"
+    },
+    {
+      "id": "caa7",
+      "username": "enes31",
+      "email": "enes31@example.com",
+      "age": 19,
+      "isActive": true,
+      "role": "user"
+    },
+    {
+      "id": "6a4f",
+      "username": "ridvan",
+      "email": "enes31@example.com",
+      "age": 19,
+      "isActive": true,
+      "role": "user"
+    },
+    {
+      "id": "26f5",
+      "username": "ridvanguzel",
+      "email": "ridvanguzel@example.com",
+      "age": 19,
+      "isActive": true,
+      "role": "user"
+    },
+    {
+      "id": "2807",
+      "username": "ridvanguzel",
+      "email": "ridvanguzel@example.com",
+      "age": 19,
+      "isActive": true,
+      "role": "user"
+    },
+    {
+      "id": "77a8",
+      "username": "ridvanguzel",
+      "email": "ridvanguzel@example.com",
+      "age": 19,
+      "isActive": true,
+      "role": "user"
+    },
+    {
+      "username": "ridvanguzelss",
+      "email": "ridvanguzelsss@admin.com",
+      "age": 32,
+      "isActive": false,
+      "role": "admin",
+      "id": "39ba"
+    }
+  ]
+}

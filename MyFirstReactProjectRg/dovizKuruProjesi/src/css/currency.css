@@ -1,0 +1,30 @@
+.currency {
+  gap: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.currency-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: palegreen;
+  padding: 6rem 8rem;
+  border-radius: 3rem;
+  width: 600px;
+}
+
+.currency-select-wrapper {
+  gap: 2rem;
+  display: flex;
+}
+
+.currency-option {
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+.btnKurHesapla {
+  padding: 1rem;
+  background-color: blue;
+}

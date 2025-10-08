@@ -1,0 +1,41 @@
+.header {
+  width: auto;
+  background-color: rgb(148, 148, 230);
+  padding: 1.5rem;
+}
+.header-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header-nav > ul {
+  list-style: none;
+  display: flex;
+  gap: 1.75rem;
+}
+.course-main {
+  display: flex;
+  gap: 40px;
+  padding: 3rem 8rem;
+}
+.course-box > img {
+  width: 100%;
+  height: 100%;
+  max-height: 350px;
+  object-fit: cover;
+  border-radius: 2rem;
+}
+.course-box {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.course-box > a {
+  font-size: 20px;
+  background-color: greenyellow;
+  text-decoration: none;
+  border-radius: 0.5rem;
+  padding: 1rem 1rem;
+  color: #000;
+  width: fit-content;
+}
