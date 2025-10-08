@@ -3,7 +3,7 @@ import "../css/currency.css";
 import { FaArrowCircleRight } from "react-icons/fa";
 import axios from "axios";
 const BASE_URL = "https://api.freecurrencyapi.com/v1/latest";
-const API_KEY = "fca_live_r1Aik9ZaIN3yr4i5vI3HSECkIesgtrfQldDmHDbQ";
+const API_KEY = "enter own api key";
 
 function Currency() {
   const [amount, setAmount] = useState(1);

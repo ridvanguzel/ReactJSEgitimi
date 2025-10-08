@@ -55,24 +55,6 @@ function App() {
 
   useEffect(() => {
     getPost();
-    // getAllUser
-    // getUserById(2);
-    // const newUsers = {
-    //   username: "ridvanguzel",
-    //   email: "ridvanguzel@example.com",
-    //   age: 19,
-    //   isActive: true,
-    //   role: "user",
-    // };
-    // createNewUser(newUsers);
-    // updateUserInfo("39ba", {
-    //   username: "ridvanguzelss",
-    //   email: "ridvanguzelsss@admin.com",
-    //   age: 32,
-    //   isActive: false,
-    //   role: "admin",
-    // });
-    // deleteUser(30);
   }, []);
 
   return (
